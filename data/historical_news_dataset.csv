@@ -1,0 +1,17 @@
+timestamp,title,tickers,sentiment,confidence
+2023-01-05 09:01:00,Apple suppliers gear up for new iPhone production,['AAPL'],positive,0.96
+2023-01-05 14:30:00,Analysts raise concerns over Tesla's delivery numbers,['TSLA'],negative,0.91
+2023-01-06 11:00:00,Microsoft faces new antitrust probe in Europe,['MSFT'],negative,0.98
+2023-01-09 10:15:00,Google parent Alphabet announces major AI breakthrough,['GOOGL'],positive,0.97
+2023-01-10 09:30:00,Nvidia stock soars on new GPU announcement,['NVDA'],positive,0.99
+2023-01-18 12:00:00,"Amazon to hire 50,000 new workers for AWS expansion",['AMZN'],positive,0.93
+2023-01-25 16:00:00,Tesla cuts prices globally in push for volume,['TSLA'],negative,0.95
+2023-02-02 08:45:00,Strong iPhone sales push Apple earnings past estimates,['AAPL'],positive,0.98
+2023-02-03 10:00:00,"Amazon reports disappointing quarter, stock tumbles",['AMZN'],negative,0.97
+2023-02-08 11:30:00,Microsoft's new AI-powered Bing challenges Google,"['MSFT', 'GOOGL']",neutral,0.85
+2023-02-15 14:00:00,Nvidia earnings beat expectations on data center growth,['NVDA'],positive,0.96
+2023-02-22 09:00:00,Federal regulators block major Microsoft acquisition,['MSFT'],negative,0.99
+2023-03-01 10:10:00,Tesla investor day leaves shareholders wanting more,['TSLA'],negative,0.92
+2023-03-07 13:00:00,Google launches new cloud services for enterprise,['GOOGL'],positive,0.94
+2023-03-15 09:45:00,Apple rumored to be working on a new VR headset,['AAPL'],positive,0.91
+2023-03-23 16:00:00,US government sues Amazon over monopoly claims,['AMZN'],negative,0.98

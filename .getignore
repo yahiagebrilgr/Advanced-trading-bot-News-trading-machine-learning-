@@ -1,0 +1,12 @@
+# Environment variables - contains secret keys!
+.env
+
+# Python virtual environment folder
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# The custom finbert model as its large 
+my_custom_finbert_model/

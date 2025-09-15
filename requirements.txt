@@ -1,0 +1,12 @@
+requests
+feedparser
+python-dotenv
+pandas
+torch
+transformers
+alpaca-py
+yfinance
+matplotlib
+scikit-learn 
+datasets 
+accelerate
